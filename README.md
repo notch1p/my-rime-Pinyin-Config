@@ -1,6 +1,6 @@
 个人自用Rime配置，基于[三十年河東](https://github.com/ssnhd/rime)的Rime配置修改而来。
 
-<kbd>control</kbd> + <kbd>shift</kbd> + <kbd>f</kbd>切换简繁
+<kbd>control</kbd> + <kbd>shift</kbd> + <kbd>f</kbd>切换简繁 （仿微软拼音）
 
 字体：
 - Libertinus Serif
