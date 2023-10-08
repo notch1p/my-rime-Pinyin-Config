@@ -1,9 +1,10 @@
 var:
-  last_build_time: 1681738997
+  last_build_time: 1694443088
   option:
+    full_shape: false
     simplification: true
   previously_selected_schema: luna_pinyin_simp
   schema_access_time:
-    luna_pinyin_simp: 1676207263
+    luna_pinyin_simp: 1687263870
     sno_chinese: 1674385822
     sno_japanese: 1674385876
