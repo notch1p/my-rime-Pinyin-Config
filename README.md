@@ -9,3 +9,5 @@
 - [花园明朝(只需B面)](http://fonts.jp/hanazono/)
 
 - [SF Pro Display(即macOS系统字体)](https://developer.apple.com/fonts/)
+
+`installation.yaml` 仅做示例，要根据自身电脑配置
